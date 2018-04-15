@@ -2,6 +2,7 @@ version: 0.2
 phases:
   install: 
     commands:
+      - git clone https://github.com/syui/hugo-theme-air themes/hugo-theme-air
       - curl -L https://github.com/gohugoio/hugo/releases/latest | egrep -oe "\/gohugoio\/.+64bit.deb" | wget --base=https://github.com/ -i - -O hugo_64
       - dpkg -i hugo_64
       - apt-get update -y
