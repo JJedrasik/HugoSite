@@ -21,4 +21,4 @@ phases:
   post_build:
     commands:
       - tree public
-      - aws s3 sync public s3://jjedrasik
+      - aws s3 sync public s3://www.jjedrasik.com
