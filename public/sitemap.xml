@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>jjedrasik.com/categories/</loc>
+    <loc>http://jjedrasik.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jjedrasik.com/</loc>
+    <loc>http://jjedrasik.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jjedrasik.com/tags/</loc>
+    <loc>http://jjedrasik.com/tags/</loc>
     <priority>0</priority>
   </url>
   
