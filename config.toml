@@ -2,3 +2,8 @@ baseURL = "http://www.jjedrasik.com"
 languageCode = "en-us"
 title = "Jan Jedrasik"
 theme = "ananke"
+
+[params]
+
+description = "A blog rambling about cyber security, kickboxing, and life in your early twenties."
+github = "https://wwww.github.com/jjedrasik"
