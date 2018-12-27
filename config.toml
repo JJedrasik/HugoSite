@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Jan Jedrasik"
 theme = "ananke"
 
+
+[[menu.main]]
+  name = "Home"
+  identifier = "home"
+  url = "/"
 [[menu.main]]
   name = "About"
   identifier = "about"
