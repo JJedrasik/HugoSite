@@ -3,7 +3,11 @@ languageCode = "en-us"
 title = "Jan Jedrasik"
 theme = "ananke"
 
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  url = "/about/"
+
 [params]
-description = "The last theme you'll ever need. Maybe."
 github = "https://github.com/jjedrasik"
 linkedin = "https://www.linkedin.com/in/jan-jedrasik-bb5209174/"
