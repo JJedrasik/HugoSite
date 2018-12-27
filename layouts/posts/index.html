@@ -6,10 +6,10 @@
 {{else}}
 <header class="main-header no-cover">
 {{end}}
-    
 
-    
-      
+
+
+
         <!--
         {{ if .Site.Menus.main }}
             <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
@@ -21,11 +21,12 @@
             {{end}}
         {{end}}
         -->
- 
+
 <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">
               <a style="color:white" class="btn-bootstrap-2 title-scroll" href="#content">{{ .Site.Title }}</a>
+
           </h1>
           <h2 style = "color:white"  class="page-description">{{ .Site.Params.description }}</h2>
         </div>
@@ -36,10 +37,9 @@
 <main id="content" class="content" role="main">
 
     {{.Content}}{{ .Site.Params.about }}
-      Hello!    
-    
+      Hello!
+
 </main>
 
 
-<!--- {{ partial "footer.html" . }} --> 
-  
+<!--- {{ partial "footer.html" . }} -->
