@@ -9,10 +9,11 @@ theme = "ananke"
   url = "/about/"
 [[menu.main]]
   name = "Resume"
-  identifier = "resume" 
+  identifier = "resume"
   url = "/resume/"
 
 
 [params]
 github = "https://github.com/jjedrasik"
 linkedin = "https://www.linkedin.com/in/jan-jedrasik-bb5209174/"
+instagram = "https://www.instagram.com/janjedrasik/?hl=en"

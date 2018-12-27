@@ -6,7 +6,7 @@ description: "A summary of various skills and achievements"
 
 
 
-[Download here!](/resume/JanJedrasikResume2018.pdf)
+[Download here](/resume/JanJedrasikResume2018.pdf)
 --------------------------------------------------------------------------------
 
 Alternatively, read below:
@@ -95,7 +95,7 @@ Certifications
 ***CompTIA Security+*** <br>
 Obtained October 2018
 
-<br> 
+<br>
 Contact
 ----------
 ***jjedrasik.jj@gmail.com***
