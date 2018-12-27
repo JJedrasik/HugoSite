@@ -1,29 +1,4 @@
-baseURL = "http://jjedrasik.com/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Jan Jedrasik: A Blog"
-theme = "hugo-theme-air"
-LanguageCode= "en-US"
-paginate = 5
-DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
-canonifyurls = true
-sectionPagesMenu = "main"
-
-[author]
-  name = "Jan Jedrasik"
-
-[params]
-  description = "Muay Thai and Computer Science"
-  about = "About"
-  author = "Jan Jedrasik"
-  authorlocation = "Toronto, Ontario"
-  bio= "This is a short bio"
-  googleAnalyticsUserID = ""
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = ""
-  githubName = "jjedrasik"
-  twitterName = "@jjedrasik"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = true
-
-
+title = "My New Hugo Site"
+theme = "ananke"
