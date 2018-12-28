@@ -88,6 +88,9 @@ Hearkening back to the old days of games like nethack, I put together this in C.
 ***Hugo Site*** <br>
 The site you're on right now is another little project. Its done using the Hugo framework, so everything that's served is static. The files are stored in an S3 bucket, and any changes in the git repo are recorded by a hook to automatically update the bucket.
 
+***ScriptsNScraps*** <br>
+A growing collection of various random python scripts. Most are somewhat related to network and network security. This is coming changing, so come see for yourself whats in the repo.
+
 <br><br>
 
 Certifications
