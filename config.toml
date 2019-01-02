@@ -16,6 +16,10 @@ theme = "ananke"
   name = "Resume"
   identifier = "resume"
   url = "/resume/"
+[[menu.main]]
+  name = "Security Tutorials"
+  identifier = "security tutorials"
+  url = "/securityTutorials/"
 
 
 [params]
