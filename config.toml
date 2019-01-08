@@ -2,7 +2,7 @@ baseURL = "http://www.jjedrasik.com"
 languageCode = "en-us"
 title = "Jan Jedrasik"
 theme = "ananke"
-
+googleanalytics = "UA-51046757-2"
 
 [[menu.main]]
   name = "Home"
