@@ -6,9 +6,9 @@ description: "A summary of various skills and achievements"
 
 
 
-[Download here](/resume/JanJedrasikResume2018.pdf)
---------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------
+***[Download here](/resume/JanJedrasikResume2018.pdf)*** <br> 
 Alternatively, read below:
 
 
