@@ -8,7 +8,7 @@ description: "A summary of various skills and achievements"
 
 
 --------------------------------------------------------------------------------
-***[Download here](/resume/ResumeJan2019.pdf)*** <br>
+***[Download here](/resume/Resume2019Jan.pdf)*** <br>
 Alternatively, read below:
 
 
