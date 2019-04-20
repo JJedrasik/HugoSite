@@ -20,6 +20,10 @@ googleAnalytics = "UA-131914950-1"
   name = "Security Tutorials"
   identifier = "security tutorials"
   url = "/securityTutorials/"
+[[menu.main]]
+  name = "Virtual Reality"
+  identifier = "Virtual Reality"
+  url = "/virtualReality/"
 
 
 [params]
