@@ -29,4 +29,8 @@ Should the player get too close to them however, the spiders are actually able t
 
 Should a spider be able to touch the player, the game ends. <br>
 
-The goal of the game is for the player to find the magic book in the castle, and bring it back to their start point.
+The goal of the game is for the player to find the magic book in the castle, and bring it back to their start point. <br>
+
+Below is the video showing this!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AOZZDsIwsF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
