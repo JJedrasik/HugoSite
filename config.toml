@@ -1,4 +1,4 @@
-baseURL = "http://www.jjedrasik.com"
+baseURL = "https://www.jjedrasik.com"
 languageCode = "en-us"
 title = "Jan Jedrasik"
 theme = "ananke"
