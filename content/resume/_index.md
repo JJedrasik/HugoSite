@@ -8,7 +8,7 @@ description: "A summary of various skills and achievements"
 
 
 --------------------------------------------------------------------------------
-***[Download here](/resume/Resume2020.pdf)*** <br> <br> 
+***[Download here](/resume/Resume2020.pdf)*** <br> <br>
 Alternatively, read below:
 
 
@@ -90,8 +90,8 @@ Skills
 
 Personal Projects
 -------------------
-[Come see for yourself!](http://www.github.com/jjedrasik)
-<br> <br>
+[Come see for yourself!](http://www.github.com/jjedrasik) <br>
+<br> <br> 
 ***VB Keylogger*** <br>
 In an attempt to better understand how keyloggers work, I designed a simple applications that runs undetected on a users desktop. It records the user's keystrokes, as well as emailing me an image of the screen in minute intervals. Done in Visual Basic because of ease of recording actions in a windows environment.
 
