@@ -20,9 +20,20 @@ Current student graduating in the upcoming summer. Previous experience working i
 
 Experience
 ------------
+***Security Engineer for iSecurity*** <br>
+  June 2019 - Current
 
+* Development of SIEM software for SOC services
+
+* Incident response and forensic analysis
+
+* Creation of Phishing Campaigns for security awareness training
+
+* AWS/Azure/GCP infrastructure compliance and maintenance
+
+* Created Python scripts to automate compliance and penetration testing
 ***Teaching Assistant for Ryerson University*** <br>
-  September 2018 - Current
+  September 2018 - May 2019
 
 * Demonstrate and explain use of equipment, assisting
 students in project work, helping students solve course-
