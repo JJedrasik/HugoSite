@@ -8,7 +8,7 @@ description: "A summary of various skills and achievements"
 
 
 --------------------------------------------------------------------------------
-***[Download here](/resume/Resume2020.pdf)*** <br>
+***[Download here](/resume/Resume2020.pdf)*** <br> <br> 
 Alternatively, read below:
 
 
@@ -32,6 +32,8 @@ Experience
 * AWS/Azure/GCP infrastructure compliance and maintenance
 
 * Created Python scripts to automate compliance and penetration testing
+
+<br> <br>
 ***Teaching Assistant for Ryerson University*** <br>
   September 2018 - May 2019
 
